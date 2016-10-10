@@ -5,4 +5,9 @@
     <string name="password">Password</string>
     <string name="login">Login</string>
     <string name="noAccount">No account yet? Sign Up!</string>
+    <string name="username">Username</string>
+    <string name="contact">Contact</string>
+    <string name="signup">Sign Up!</string>
+    <string name="rent_property">Rent Property</string>
+    <string name="post_property">Post Property</string>
 </resources>
